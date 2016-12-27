@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Image Map Sample</title>
+	</head>
+	<body>
+		<map name='map'>
+			<area shape='rect' coords='84,216,1136,1628' />
+			<area shape='rect' coords='1166,210,1676,906' />
+			<area shape='rect' coords='1712,210,2218,906' />
+			<area shape='rect' coords='1710,934,2216,1630' />
+			<area shape='rect' coords='1172,934,1678,1630' />
+			<area shape='rect' coords='1172,934,1678,1630' />
+			<area shape='rect' coords='630,1654,1136,2350' />
+			<area shape='rect' coords='1172,1652,1678,2348' />
+			<area shape='rect' coords='1714,1654,2220,2350' />
+<area shape='rect' coords='90,1658,596,2354' />
+			<area shape='rect' coords='82,2372,598,3070' />
+			<area shape='rect' coords='623,2373,1139,3071' />
+			<area shape='rect' coords='1709,2381,2219,3070' />
+			<area shape='rect' coords='1160,2370,1679,3068' />
+
+		</map>
+	</body>
+</html>

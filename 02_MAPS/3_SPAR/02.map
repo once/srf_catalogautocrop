@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>Image Map Sample</title>
+	</head>
+	<body>
+		<map name='map'>
+			<area shape='rect' coords='1040,1250,1928,2146' />
+			<area shape='rect' coords='153,1252,1034,2146' />
+			<area shape='rect' coords='1043,325,1932,1244' />
+			<area shape='rect' coords='160,322,1038,1242' />
+			<area shape='rect' coords='156,2148,1036,3082' />
+			<area shape='rect' coords='1038,2150,1930,3082' />
+		</map>
+	</body>
+</html>

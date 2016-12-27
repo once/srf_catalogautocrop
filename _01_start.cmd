@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy Bypass .\do_pages.ps1

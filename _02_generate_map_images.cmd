@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy Bypass .\generate_map_images.ps1
